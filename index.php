@@ -3,7 +3,7 @@
     Plugin Name: Word Filter
     Plugin URI: https://github.com/matias2018/word-filter-for-wordpress.git
     Description: Plugin to search and replace words in the content of the site
-    Version: 1.0
+    Version: 1.1
     Author: Pedro Matias
     Author URI: https://pedromatias.dev
 */
